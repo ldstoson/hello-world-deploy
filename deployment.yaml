@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: ldstoson/myhello:6
+        image: ldstoson/myhello:7
         ports:
         - containerPort: 8080
